@@ -14,6 +14,9 @@ Project![Rollcall](https://github.com/Swarnimashukla/Automatic-attendance-manage
 * To help government officials keep track of education structure
 * To create a better learning environment and improve education system 
 
+# Award Winning idea :✨🏆✨
+![Dreambig championship](https://github.com/Swarnimashukla/Automatic-attendance-management-system/blob/master/Winner.jpeg)
+
 ### Functionalities 
 
  * Student enrolment
@@ -55,7 +58,7 @@ Project![Rollcall](https://github.com/Swarnimashukla/Automatic-attendance-manage
 
 ## Project Admin
 
-SWARNIMA SHUKLA
+[Swarnima Shukla](https://www.linkedin.com/in/swarnima-shukla-3815b5b8/)
 
 ## Connect with me on 
 
