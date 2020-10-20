@@ -9,5 +9,21 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'Message that will be displayed on users'' first issue'
-        pr-message: 'Message that will be displayed on users'' first pr'
+        pr-message: |
+            Hello @${{ github.actor }}, thank you for submitting a PR! To allow your work to be integrated as seamlessly as possible, we advise you to:
+            - Verify your PR is **up-to-date with origin/master.** If your PR is behind origin/master update by running the following, replacing 'feature' with the name of your local branch:
+            ```bash
+            git remote add upstream https://github.com/Swarnimashukla/Automatic-attendance-management-system.git
+            git fetch upstream
+            git checkout feature  # <----- replace 'feature' with local branch name
+            git rebase upstream/master
+            git push -u origin -f
+            ```
+            - Reduce changes to the absolute **minimum** required for your bug fix or feature addition. 
+            - Write clear meaningful git commit messages
+            - Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged.
+            - When you make very very minor changes to a PR of yours (like for example fixing a text in button, minor changes requested by reviewers) make sure you squash your commits afterward so that you don't have an absurd number of commits for a very small fix.
+            - When you're submitting a PR for a UI-related issue, it would be really awesome if you add a screenshot of your change or a link to a deployment where it can be tested out along with your PR. It makes it very easy for the reviewers and you'll also get reviews quicker.  
+        issue-message: |
+            If this is a bug report, please provide screenshots and/or **minimum viable code to reproduce your issue**.
+            
