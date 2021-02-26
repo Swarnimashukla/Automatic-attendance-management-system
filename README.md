@@ -60,11 +60,26 @@ Project![Rollcall](https://github.com/Swarnimashukla/Automatic-attendance-manage
 
 ## Project Admin
 
-[Swarnima Shukla](https://www.linkedin.com/in/swarnima-shukla-3815b5b8/)
-
-## Connect with me on 
+<table>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/Swarnimashukla">
+				<img src="https://avatars0.githubusercontent.com/Swarnimashukla" width="100px" alt="" />
+				<br /> <sub><b>Swarnima Shukla</b></sub>
+			</a>
+			<br />
+		</td>
+	</tr>
+</table>
 
 [Linkedin](https://www.linkedin.com/in/swarnima-shukla-3815b5b8/) | [Twitter](https://twitter.com/swarnimashukla5) | [Instagram](https://www.instagram.com/swarnimashukla_/)
 
-## Don't forget to leave a 🌟 if you like this repo 
+## Contributors 
 
+Thanks goes to these wonderful people ✨:
+
+<a href="https://github.com/Swarnimashukla/Automatic-attendance-management-system/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Swarnimashukla/Automatic-attendance-management-system" />
+</a>
+
+## Don't forget to leave a 🌟 if you like this repo 
