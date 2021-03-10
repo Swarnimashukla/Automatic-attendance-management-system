@@ -1,6 +1,6 @@
 ---
 name: 💥 Proposal
-about: Propose a non-trivial change to dynamic-cli
+about: Propose a non-trivial change to Automatic-attendance-management-system
 labels: "proposal"
 ---
 
