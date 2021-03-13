@@ -61,7 +61,7 @@ Project![Rollcall](https://github.com/Swarnimashukla/Automatic-attendance-manage
     <td align="center">
             <a href="https://github.com/Swarnimashukla">
               <img src="https://avatars.githubusercontent.com/u/30214391?v=4" width="100px" alt=""/><br />
-              <sub><b>Swarnima Shuklar</b></sub>
+              <sub><b>Swarnima Shukla</b></sub>
             </a><br/>
    </td>
    <td align="center">
