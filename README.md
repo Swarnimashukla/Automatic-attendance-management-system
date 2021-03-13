@@ -42,11 +42,7 @@ Project![Rollcall](https://github.com/Swarnimashukla/Automatic-attendance-manage
 
 ## Software used
 
-1. Raspbian 
-2. Microsoft Azure
-3. OpenCV 
-4. Sqlite
-5. dlib
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>	<img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>	<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%23%20-%23239120.svg?&style=for-the-badge&logo=OpenCV"/>	<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>	<img alt="Dlib" src="https://img.shields.io/badge/Dlib%20-%2300599C.svg?&style=for-the-badge&logo=Dlib%2B%2B&ogoColor=white"/>
 
 ## Contribution Guidelines
 
@@ -65,20 +61,6 @@ Project![Rollcall](https://github.com/Swarnimashukla/Automatic-attendance-manage
 ## Connect with me on 
 
 [Linkedin](https://www.linkedin.com/in/swarnima-shukla-3815b5b8/) | [Twitter](https://twitter.com/swarnimashukla5) | [Instagram](https://www.instagram.com/swarnimashukla_/)
-
-## Contributors :
-### Thanks go to these peoples: ✨
-
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/Swarnimashukla/Automatic-attendance-management-system/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Swarnimashukla/Automatic-attendance-management-system" />
-</a>
-		</td>
-	</tr>
-</table> 
-
 
 ## Don't forget to leave a 🌟 if you like this repo 
 
