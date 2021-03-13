@@ -58,9 +58,36 @@ Project![Rollcall](https://github.com/Swarnimashukla/Automatic-attendance-manage
 
 * When you're submitting a PR for a UI-related issue, it would be really awesome if you add a screenshot of your change or a link to a deployment where it can be tested out along with your PR. It makes it very easy for the reviewers and you'll also get reviews quicker.
 
-## Project Admin
+## Project Admin & Mentors 🌟✨
 
-[Swarnima Shukla](https://www.linkedin.com/in/swarnima-shukla-3815b5b8/)
+<table>
+	<tr>
+    <td align="center">
+            <a href="https://github.com/Swarnimashukla">
+              <img src="https://avatars.githubusercontent.com/u/30214391?v=4" width="100px" alt=""/><br />
+              <sub><b>Swarnima Shuklar</b></sub>
+            </a><br/>
+   </td>
+   <td align="center">
+            <a href="https://github.com/bhubesh757">
+              <img src="https://avatars.githubusercontent.com/u/55022929?v=4" width="100px" alt=""/><br />
+              <sub><b>Bhubesh SR</b></sub>
+            </a><br/>
+   </td>
+   <td align="center">
+            <a href="https://www.github.com/SKAUL05">
+              <img src="https://avatars.githubusercontent.com/u/13817417?v=4" width="100px" alt=""/><br />
+              <sub><b>Sarath Kaul</b></sub>
+            </a><br/>
+   </td>
+   <td align="center">
+            <a href="https://github.com/suyashgautam">
+              <img src="https://avatars.githubusercontent.com/u/18730159?v=4" width="100px" alt=""/><br />
+              <sub><b>Suyash Gautam</b></sub>
+            </a><br/>
+   </td>
+  </tr>
+</table>
 
 ## Connect with me on 
 
