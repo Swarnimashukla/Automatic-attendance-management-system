@@ -8,7 +8,7 @@ Attendance is an important part of our education system. Specially in schools in
 
 ROLLCALL an automatic and smart attendance marking and management system which uses Microsoft Azure’s Cognitive service at its core to create a system that could make sure that no human intervention is required and provides government the ability to monitor the attendance of the schools and helps the government officials in mark fake schools.
 
-Project![Rollcall](https://github.com/Swarnimashukla/Automatic-attendance-management-system/blob/master/Rollcall.png "Rollcall")
+Project![Rollcall](Resource/Rollcall.png)
 
 ### Why this project ?
 
@@ -17,7 +17,7 @@ Project![Rollcall](https://github.com/Swarnimashukla/Automatic-attendance-manage
 * To create a better learning environment and improve education system 
 
 # Award Winning idea :✨🏆✨
-![Dreambig championship](https://github.com/Swarnimashukla/Automatic-attendance-management-system/blob/master/Winner.jpeg)
+![Dreambig championship](Resource/Winner.jpeg)
 
 ### Functionalities 
 
