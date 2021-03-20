@@ -124,7 +124,7 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-## Project Admin & Mentors 🌟✨
+## Project Admin 😊
 
 <table>
 	<tr>
@@ -134,6 +134,14 @@ git push -u origin <your_branch_name>
               <sub><b>Swarnima Shukla</b></sub>
             </a><br/>
    </td>
+	</tr>
+	</table>
+	
+	
+## Project Mentors ✨✨
+
+<table>
+	<tr>
    <td align="center">
             <a href="https://github.com/bhubesh757">
               <img src="https://avatars.githubusercontent.com/u/55022929?v=4" width="100px" alt=""/><br />
