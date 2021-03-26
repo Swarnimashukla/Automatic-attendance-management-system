@@ -12,9 +12,10 @@ Project![Rollcall](Resource/Rollcall.png)
 
 ### Why this project ?
 
-* To automate the traditional attendance marking process
-* To help government officials keep track of education structure
-* To create a better learning environment and improve the education system 
+* To automate the traditional attendance marking process without any hassle.
+* To help government officials keep track of education structure.
+* To create a better learning environment and improve the education system.
+* To help the teachers find a better way of teaching the students. 
 
 # Award Winning idea :✨🏆✨
 ![Dreambig championship](Resource/Winner.jpeg)
