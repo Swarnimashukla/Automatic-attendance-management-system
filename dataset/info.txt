@@ -1,0 +1,1 @@
+This folder is where the the images of the students are first stored for the dataset

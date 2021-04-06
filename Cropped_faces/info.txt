@@ -1,0 +1,1 @@
+In this folder the faces extracted from the photo of complete class are stored so if there are 10 students in the pic there will be 10 pictures having face of each student.
