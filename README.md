@@ -210,3 +210,11 @@ This program is for beginners to get started with open source. The only criterio
 
 ## Don't forget to leave a 🌟 if you like this repo 
 
+
+## Our Contributors  !! 
+
+
+<a href="https://github.com/Swarnimashukla/Automatic-attendance-management-system/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Swarnimashukla/Automatic-attendance-management-system" />
+</a>
+
