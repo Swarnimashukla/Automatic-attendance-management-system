@@ -16,7 +16,7 @@ Project![Rollcall](Resource/Rollcall.png)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Swarnimashukla/Automatic-attendance-management-system)
 ![Forks](https://img.shields.io/github/forks/Swarnimashukla/Automatic-attendance-management-system)
 ![Stars](https://img.shields.io/github/stars/Swarnimashukla/Automatic-attendance-management-system)
-[![License](https://img.shields.io/github/license/avinashkranjan/Friday)](https://github.com/Swarnimashukla/Automatic-attendance-management-system)
+[![License](https://img.shields.io/github/license/Swarnimashukla/Automatic-attendance-management-system)](https://github.com/Swarnimashukla/Automatic-attendance-management-system)
 ![](https://img.shields.io/github/repo-size/Swarnimashukla/Automatic-attendance-management-system.svg?label=Repo%20size&style=flat-square)&nbsp;
 
 ### Why this project ?
