@@ -19,7 +19,7 @@ Project![Rollcall](Resource/Rollcall.png)
 [![License](https://img.shields.io/github/license/Swarnimashukla/Automatic-attendance-management-system)](https://github.com/Swarnimashukla/Automatic-attendance-management-system)
 ![](https://img.shields.io/github/repo-size/Swarnimashukla/Automatic-attendance-management-system.svg?label=Repo%20size&style=flat-square)&nbsp;
 
-### Why this project ?
+### Why this project?
 
 * To automate the traditional attendance marking process
 * To help government officials keep track of education structure
@@ -111,7 +111,7 @@ git checkout -b <your_branch_name>
 git add . 
 ```
 
-**10.** Commit your changes .
+**10.** Commit your changes.
 
 ```
 git commit -m "Relevant message"
@@ -123,7 +123,7 @@ git commit -m "Relevant message"
 git push -u origin <your_branch_name>
 ```
 
-**12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are supposed to make a PR to.
+**12.** To create a pull request, click on `compare and pull requests. Please ensure you compare your feature branch to the desired branch of the repo you are supposed to make a PR to.
 
 
 
@@ -136,11 +136,11 @@ git push -u origin <your_branch_name>
 
 **Q1. Will a beginner, with absolutely no knowledge of github, gain anything fruitful?**
 
-Yeah, definitely. The organization is meant to assist the beginners grow in the field of development. GirlScript have distinct projects appropriate both for beginners as well as the accolades and thereby they will make sure that each and every participant gets to learn something new from the projects he or she is contributing for.
+Yeah, definitely. The organization is meant to assist beginners to grow in the field of development. GirlScript has distinct projects appropriate both for beginners as well as the accolades and thereby they will make sure that each and every participant gets to learn something new from the projects he or she is contributing for.
 
 **Q2. Is there any registration fee?**
 
-No, there is no registration fees for participation. It is absolutely free of cost.
+No, there are no registration fees for participation. It is absolutely free of cost.
 
 **Q3. Any age limit for participation?**
 
@@ -148,7 +148,7 @@ No, there is no age limit for participation in GSSoC. It is open for all.
 
 **Q4. How will we receive the prizes (if won) and certificate?**
 
-GirlScript will be providing all the participants with the digital certificate. The prize money to all the concerned students will be sent to their bank accounts. GirlScript will ask for the bank account details via an email after the conclusion of the event.
+GirlScript will be providing all the participants with the digital certificate. The prize money to all the concerned students will be sent to their bank accounts. GirlScript will ask for the bank account details via email after the conclusion of the event.
 
 **Q5. By what time will the result come?**
 
@@ -156,11 +156,11 @@ The results will be declared in the first week of June
 
 **Q6. Is it strictly for girls or can boys also participate?**
 
-GirlScript aims to assist anyone who is new in the field of development and it specifically supports an inclusive environment. Thereby GSSOC is open both for girls and for boys. Everyone can participate and contribute their part in the development of open source community and our initiative.
+GirlScript aims to assist anyone who is new in the field of development and it specifically supports an inclusive environment. Thereby GSSOC is open both for girls and for boys. Everyone can participate and contribute their part in the development of the open-source community and our initiative.
 
-**Q7. From where do we need to start being a beginner as of now so as contribute properly in the projects?**
+**Q7. From where do we need to start being a beginner as of now so as contribute properly to the projects?**
 
-GirlScript will be providing you with the links on their official website to start with Github and various other development to make sure that everyone is able to aptly contribute for the projects.
+GirlScript will be providing you with the links on their official website to start with Github and various other developers to make sure that everyone is able to aptly contribute to the projects.
 
 **Q8. How will participants communicate with mentors and admin?**
 
@@ -172,7 +172,7 @@ The participants will be notified through email and an invite to the Discord cha
 
 **Q10. What is the criterion for selection as a participant?**
 
-This program is for beginners to get started with open source. The only criterion for selection are your dedication and enthusiasm to contribute to open source.
+This program is for beginners to get started with open source. The only criterion for selection is your dedication and enthusiasm to contribute to open source.
 
 ## Project Admin 😊
 
@@ -217,7 +217,7 @@ This program is for beginners to get started with open source. The only criterio
 
 [Linkedin](https://www.linkedin.com/in/swarnima-shukla-3815b5b8/) | [Twitter](https://twitter.com/swarnimashukla5) | [Instagram](https://www.instagram.com/swarnimashukla_/)
 
-## Don't forget to leave a 🌟 if you like this repo 
+## Don't forget to leave and 🌟 if you like this repo 
 
 
 ## Our Contributors  !! 
@@ -226,4 +226,5 @@ This program is for beginners to get started with open source. The only criterio
 <a href="https://github.com/Swarnimashukla/Automatic-attendance-management-system/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Swarnimashukla/Automatic-attendance-management-system" />
 </a>
+
 
