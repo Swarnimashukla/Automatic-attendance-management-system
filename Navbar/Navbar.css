@@ -1,0 +1,93 @@
+/* specify the font color for every element */
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1600px;
+    height: 75px;
+  }
+  
+  .navbar {
+    background: transparent;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+  }
+  
+  .nav-menu {
+    display: flex;
+    text-align: center;
+    list-style: none;
+    margin-right: 2rem;
+  }
+
+  .nav-item {
+    line-height: 40px;
+    margin-right: 1rem;
+  }
+  
+  .link-nav {
+    color: #fff;
+    height: 100%;
+    text-decoration: none;
+    padding: 0.5rem 0.5rem;
+    border-bottom: 3px solid transparent;
+  }
+  .fa-code {
+    margin-left: 1rem;
+  }
+  
+  .nav-block {
+    display: none;
+  }
+  
+  @media screen and (max-width: 960px) {
+    .nav-menu {
+      display: flex;
+      position: absolute; 
+      width: 100%;
+      opacity: 1;
+      border-top: 1px solid #fff;
+      top: 75px;
+      left: -110%;
+      flex-direction: column;
+      transition: all 0.5s ease;
+    }
+  
+    .nav-block {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translate(-100%, 60%);
+        font-size: 1.5rem;
+        cursor: grab;
+        color: #FFFFFF, 100%;
+      }
+
+    .navmenu.active {
+      background: #0047FD
+      ;
+      left: 0px;
+      opacity: 1;
+      transition: all 0.5s ease;
+      z-index: 1;
+    }
+    .nav-option .active {
+      color: #FFFFFF, 100%;
+      border: none;
+    }
+    .nav-links {
+      padding: 1rem;
+      width: 100%;
+      display: table;
+    }
+  
+  }
